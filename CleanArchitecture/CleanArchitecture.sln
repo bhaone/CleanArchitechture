@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Mvc", "Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Domain", "CleanArchitecture.Domain\CleanArchitecture.Domain.csproj", "{A0C7AFBF-8AC1-4DCD-BD4B-55A4BBDE9B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Infr.Data", "CleanArchitecture.Infr.Data\CleanArchitecture.Infr.Data.csproj", "{2B90364F-8D47-4D4F-8E58-1EDA2280AEA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Infra.Data", "CleanArchitecture.Infr.Data\CleanArchitecture.Infra.Data.csproj", "{2B90364F-8D47-4D4F-8E58-1EDA2280AEA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
