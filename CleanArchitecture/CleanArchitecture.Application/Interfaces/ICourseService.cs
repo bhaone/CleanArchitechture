@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CleanArchitecture.Application.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,6 +7,6 @@ namespace CleanArchitecture.Application.Interfaces
 {
     public interface ICourseService
     {
-        IEnumerable<ViewModels.CourseViewModel> GetCourses();
+        CourseViewModel GetCourses();
     }
 }
